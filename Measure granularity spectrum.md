@@ -5,7 +5,6 @@ Granularity spectrum measurement in cells based on finding cells using Cellpose 
 * The input of the pipeline is a two-channel image of cells with the channel of interest for spectral measurement, and a second channel with a nuclear stain. Alternatively use an image name “Cells” and “Perform Cellpose segmentation”=No to skip segmentation and directly use cell segments, e.g. during repeated execution of the pipeline with different parameters. No nucleus image is needed this case. The input may be an image series, and in this case the analysis will run on each frame independently. This is the fastest way of processing many images.
 * The output is an Excel worksheet where spectral bins are in columns and frames are in rows.
 
-[Image Analyst MKII pipeline](https://www.imageanalyst.net) – saved by V2.4.5
 
 
 ## Parameters
@@ -27,7 +26,7 @@ Granularity spectrum measurement in cells based on finding cells using Cellpose 
 
 
 ## Structure
-![structure](.img\Measure granularity spectrum.jpg)
+![structure](.img/Measure%20granularity%20spectrum.jpg)
 
-[Image Analyst MKII pipeline](https://www.imageanalyst.net) – saved by V4.2.5 (build 838)
+[Image Analyst MKII](https://www.imageanalyst.net) pipeline – saved by V4.2.5 (build 838)
 

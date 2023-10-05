@@ -2,6 +2,12 @@
 Image analysis for MitoTracker and Phalloidin staining in Zeiss Airyscan super resolution microscopy images.  
 This repository contains custom image analysis pipelines  for Image Analyst MKII, used in the following publication: currently under embargo    
 
+## List of pipelines
+* [Measure actin filopodia length in binarized projection images](Measure actin filopodia length in binarized projection images.ips)
+* [Measure granularity spectrum](Measure granularity spectrum.ips)
+* [Measure mitochondrial, actin and nucleus intensity, shape and texture parameters](Measure mitochondrial, actin and nucleus intensity, shape and texture parameters.ips)
+
+## How to use
 To open and edit *.ips (XML) Image Processing Pipeline files download [Image Analyst MKII for Windows](https://www.imageanalyst.net/downloads/?item=recent/imageanalystMKII64.msi).
 1. Clone this git in Image Analyst MKII by Edit/Download and Manage Pipelines from GitHub. 
 2. Press the "< > Code" button above in this page and copy the URL of this git.
@@ -9,3 +15,4 @@ To open and edit *.ips (XML) Image Processing Pipeline files download [Image Ana
 4. Press Download.
 5. The pipelines deposited here will appear in the middle section of the Pipelines main menu.
 * Note: you may download individual pipelines and add them to the Documents\Image Analyst\My Pipelines 
+

@@ -16,9 +16,6 @@ Ch9:	Plot of Sum area in Nuclei
 Ch10:	Plot of Mean area in Cells
 
 
-[Image Analyst MKII pipeline](https://www.imageanalyst.net) – saved by V2.4.5
-
-
 ## Parameters
 | # | Name | Type | Description |
 |---|------|------|-------------|
@@ -38,7 +35,7 @@ Ch10:	Plot of Mean area in Cells
 
 
 ## Structure
-![structure](.img\Measure mitochondrial, actin and nucleus intensity, shape and texture parameters.jpg)
+![structure](.img/Measure%20mitochondrial,%20actin%20and%20nucleus%20intensity,%20shape%20and%20texture%20parameters.jpg)
 
-[Image Analyst MKII pipeline](https://www.imageanalyst.net) – saved by V4.2.5 (build 838)
+[Image Analyst MKII](https://www.imageanalyst.net) pipeline – saved by V4.2.5 (build 838)
 

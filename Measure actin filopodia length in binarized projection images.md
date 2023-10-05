@@ -5,7 +5,6 @@ This pipeline measures the length of filopodia protruding from a convex surface 
 * Output: Excel worksheet with individual filopodia length in pixels in columns and frames in rows. Ignore “MASK” values.
 
 
-[Image Analyst MKII pipeline](https://www.imageanalyst.net) – saved by V2.4.5
 
 
 ## Parameters
@@ -14,7 +13,7 @@ This pipeline measures the length of filopodia protruding from a convex surface 
 
 
 ## Structure
-![structure](.img\Measure actin filopodia length in binarized projection images.jpg)
+![structure](.img/Measure%20actin%20filopodia%20length%20in%20binarized%20projection%20images.jpg)
 
-[Image Analyst MKII pipeline](https://www.imageanalyst.net) – saved by V4.2.5 (build 838)
+[Image Analyst MKII](https://www.imageanalyst.net) pipeline – saved by V4.2.5 (build 838)
 

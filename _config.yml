@@ -1,2 +1,3 @@
 baseurl: "/Superresolution-actin-and-mitochondria-analysis"
 relative_url: true
+markdown: kramdown

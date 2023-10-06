@@ -1,4 +1,5 @@
-# baseurl: "/Superresolution-actin-and-mitochondria-analysis"
+url: "https://gerencserlab.github.io/Superresolution-actin-and-mitochondria-analysis/"
+baseurl: "/Superresolution-actin-and-mitochondria-analysis"
 relative_url: true
 markdown: GFM
 plugins:

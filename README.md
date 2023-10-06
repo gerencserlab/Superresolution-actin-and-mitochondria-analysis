@@ -1,4 +1,4 @@
-# Superresolution actin and mitochondria analysis
+# Super-resolution actin and mitochondria analysis
 Image analysis for MitoTracker and Phalloidin staining in Zeiss Airyscan super resolution microscopy images.  
 This repository contains custom image analysis pipelines  for Image Analyst MKII, used in the following publication: currently under embargo    
 

@@ -4,3 +4,9 @@ relative_url: true
 markdown: GFM
 plugins:
   - jekyll-relative-links
+gems:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false

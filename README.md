@@ -3,7 +3,7 @@ Image analysis for MitoTracker and Phalloidin staining in Zeiss Airyscan super r
 This repository contains custom image analysis pipelines  for Image Analyst MKII, used in the following publication: currently under embargo    
 
 ## List of pipelines
-* [Measure actin filopodia length in binarized projection images](Measure%20actin%20filopodia%20length%20in%20binarized%20projection%20images)
+* [Measure actin filopodia length in binarized projection images]({{ site.baseurl }}{% link Measure%20actin%20filopodia%20length%20in%20binarized%20projection%20images.md %})
 * [Measure granularity spectrum](Measure%20granularity%20spectrum.md)
 * [Measure mitochondrial, actin and nucleus intensity, shape and texture parameters](Measure%20mitochondrial,%20actin%20and%20nucleus%20intensity,%20shape%20and%20texture%20parameters.md)
 

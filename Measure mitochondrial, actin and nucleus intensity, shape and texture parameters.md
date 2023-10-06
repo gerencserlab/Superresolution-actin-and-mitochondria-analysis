@@ -32,10 +32,10 @@ Ch10:	Plot of Mean area in Cells
 | 10 | Cellpose: --flow_threshold | Text | Minimum probability to identify cells |
 | 11 | Cellpose: number of parallel processes | Integer | Image series and time courses will be split into multiple parts and separate instances of the external program is launched. |
 | 12 | Cellpose: --batch_size | Text | Set batch size according to the GPU memory |
-
+|---|------|------|-------------|
 
 ## Structure
-![structure](.img/Measure%20mitochondrial,%20actin%20and%20nucleus%20intensity,%20shape%20and%20texture%20parameters.jpg)
+![structure](/.img/Measure%20mitochondrial,%20actin%20and%20nucleus%20intensity,%20shape%20and%20texture%20parameters.jpg)
 
 [Image Analyst MKII](https://www.imageanalyst.net) pipeline – saved by V4.2.5 (build 838)
 

@@ -35,7 +35,7 @@ Ch10:	Plot of Mean area in Cells
 
 
 ## Structure
-![structure](/.img/Measure_mitochondrial,_actin_and_nucleus_intensity,_shape_and_texture_parameters.jpg)
+![structure](/img/Measure_mitochondrial,_actin_and_nucleus_intensity,_shape_and_texture_parameters.jpg)
 
 [Image Analyst MKII](https://www.imageanalyst.net) pipeline – saved by V4.2.5 (build 838)
 

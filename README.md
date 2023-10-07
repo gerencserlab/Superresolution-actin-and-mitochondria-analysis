@@ -8,7 +8,7 @@ Image analysis for MitoTracker and Phalloidin staining in Zeiss Airyscan super r
 * [Measure mitochondrial, actin and nucleus intensity, shape and texture parameters](Measure_mitochondrial,_actin_and_nucleus_intensity,_shape_and_texture_parameters.md)
 * [Mitochondria to cell volume fractionator with hole filling MitoTracker vs ACTIN with Airyscan](Mitochondria_to_cell_volume_fractionator_with_hole_filling_MitoTracker_vs_ACTIN_with_Airyscan.md)
 
-## Relate image data
+## Related image data
 These pipelines have been used to process the following image data: [Access data on Zenodo](https://zenodo.org/record/8415197)
 
 ## How to use

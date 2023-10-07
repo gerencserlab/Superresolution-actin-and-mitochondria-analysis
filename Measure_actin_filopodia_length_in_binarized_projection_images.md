@@ -13,7 +13,7 @@ This pipeline measures the length of filopodia protruding from a convex surface 
 
 
 ## Structure
-![structure](.img/Measure%20actin%20filopodia%20length%20in%20binarized%20projection%20images.jpg)
+![structure](/img/Measure_actin_filopodia_length_in_binarized_projection_images.jpg)
 
 [Image Analyst MKII](https://www.imageanalyst.net) pipeline – saved by V4.2.5 (build 838)
 

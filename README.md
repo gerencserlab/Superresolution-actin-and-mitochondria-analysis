@@ -6,7 +6,7 @@ This repository contains custom image analysis pipelines  for Image Analyst MKII
 ## List of pipelines
 * [Measure actin filopodia length in binarized projection images](<Measure actin filopodia length in binarized projection images.md>)
 * [Measure granularity spectrum](<Measure granularity spectrum.md>)
-* [Measure mitochondrial, actin and nucleus intensity, shape and texture parameters](<Measure mitochondrial, actin and nucleus intensity, shape and texture parameters.md>)
+* [Measure mitochondrial, actin and nucleus intensity, shape and texture parameters](<Measure_mitochondrial,_actin_and_nucleus_intensity,_shape_and_texture_parameters.md>)
 
 ## Relate image data
 These pipelines have been used to process the following image data: [Access data on Zenodo](https://zenodo.org/record/8415197)

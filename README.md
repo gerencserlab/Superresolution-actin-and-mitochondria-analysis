@@ -1,11 +1,10 @@
 # Super-resolution actin and mitochondria analysis
 Image analysis for MitoTracker and Phalloidin staining in Zeiss Airyscan super resolution microscopy images.  
 This repository contains custom image analysis pipelines  for Image Analyst MKII, used in the following publication: currently under embargo    
-[test](<test.md>)
 
 ## List of pipelines
-* [Measure actin filopodia length in binarized projection images](<Measure actin filopodia length in binarized projection images.md>)
-* [Measure granularity spectrum](<Measure granularity spectrum.md>)
+* [Measure actin filopodia length in binarized projection images](Measure_actin_filopodia_length_in_binarized_projection_images.md)
+* [Measure granularity spectrum](Measure_granularity_spectrum.md)
 * [Measure mitochondrial, actin and nucleus intensity, shape and texture parameters](Measure_mitochondrial,_actin_and_nucleus_intensity,_shape_and_texture_parameters.md)
 
 ## Relate image data

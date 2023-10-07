@@ -18,6 +18,7 @@ To open and edit *.ips (XML) Image Processing Pipeline files download [Image Ana
 3. Paste the URL in the URL field in the Connect to Git window in Image Analyst MKII.
 4. Press Download.
 5. The pipelines deposited here will appear in the middle section of the Pipelines main menu.
-* Note: you may download individual pipelines and add them to the Documents\Image Analyst\My Pipelines 
+* Note: you may download individual pipelines and add them to the Documents\Image Analyst\My Pipelines
+* Questions or comments? [Visit discussions](https://github.com/gerencserlab/Superresolution-actin-and-mitochondria-analysis/discussions/1). 
 
 [Gerencser Lab on Github](https://github.com/gerencserlab)

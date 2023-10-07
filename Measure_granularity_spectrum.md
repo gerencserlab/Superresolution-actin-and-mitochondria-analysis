@@ -26,7 +26,7 @@ Granularity spectrum measurement in cells based on finding cells using Cellpose 
 
 
 ## Structure
-![structure](.img/Measure%20granularity%20spectrum.jpg)
+![structure](/img/Measure_granularity_spectrum.jpg)
 
 [Image Analyst MKII](https://www.imageanalyst.net) pipeline – saved by V4.2.5 (build 838)
 

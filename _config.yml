@@ -4,6 +4,7 @@ relative_url: true
 markdown: GFM
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
 gems:
   - jekyll-relative-links
 

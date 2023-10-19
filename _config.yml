@@ -13,8 +13,8 @@ gems:
   - jekyll-google_search_console_verification_file
 
 google_search_console:
-  verification_file_code: l65NSlG5265m5QylrhnmN_EuNjUP6Wueso7auAL40lg
-
+  verification_file_code: 201c2f5f1209c7c6
+  
 relative_links:
   enabled: true
   collections: false

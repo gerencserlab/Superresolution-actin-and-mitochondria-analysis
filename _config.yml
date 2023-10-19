@@ -5,9 +5,15 @@ markdown: GFM
 plugins:
   - jekyll-relative-links
   - jekyll-sitemap
+  - jekyll-google_search_console_verification_file
+
 gems:
   - jekyll-relative-links
   - jekyll-sitemap
+  - jekyll-google_search_console_verification_file
+
+google_search_console:
+  verification_file_code: l65NSlG5265m5QylrhnmN_EuNjUP6Wueso7auAL40lg
 
 relative_links:
   enabled: true

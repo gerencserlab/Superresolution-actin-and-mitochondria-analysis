@@ -2,6 +2,7 @@ url: "https://gerencserlab.github.io"
 baseurl: "/Superresolution-actin-and-mitochondria-analysis"
 relative_url: true
 markdown: GFM
+
 plugins:
   - jekyll-relative-links
   - jekyll-sitemap

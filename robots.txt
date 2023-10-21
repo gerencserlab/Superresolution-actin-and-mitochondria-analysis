@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://gerencserlab.github.io/Superresolution-actin-and-mitochondria-analysis/sitemap.xml

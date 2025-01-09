@@ -1,6 +1,7 @@
 # Super-resolution actin and mitochondria analysis
 Image analysis for MitoTracker and Phalloidin staining in Zeiss Airyscan super resolution microscopy images.  
-[This repository](https://github.com/gerencserlab/Superresolution-actin-and-mitochondria-analysis/) contains custom image analysis pipelines  for Image Analyst MKII, used in the following publication: currently under embargo    
+[This repository](https://github.com/gerencserlab/Superresolution-actin-and-mitochondria-analysis/) contains custom image analysis pipelines  for Image Analyst MKII, used in the following publication:
+[Single-cell analysis identifies conserved features of immune dysfunction in simulated microgravity and spaceflight](https://pubmed.ncbi.nlm.nih.gov/38862487/) 
 
 ## List of pipelines
 * [Measure actin filopodia length in binarized projection images](Measure_actin_filopodia_length_in_binarized_projection_images.md)
